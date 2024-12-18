@@ -1,0 +1,17 @@
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\SciCalForm.csproj.AssemblyReference.cache
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\SciCalForm.csproj.GenerateResource.cache
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\SciCalForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\SciCalForm.AssemblyInfoInputs.cache
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\SciCalForm.AssemblyInfo.cs
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\SciCalForm.csproj.CoreCompileInputs.cache
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\bin\Debug\net6.0-windows\SciCalForm.exe
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\bin\Debug\net6.0-windows\SciCalForm.deps.json
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\bin\Debug\net6.0-windows\SciCalForm.runtimeconfig.json
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\bin\Debug\net6.0-windows\SciCalForm.dll
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\bin\Debug\net6.0-windows\SciCalForm.pdb
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\SciCalForm.dll
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\refint\SciCalForm.dll
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\SciCalForm.pdb
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\SciCalForm.genruntimeconfig.cache
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\ref\SciCalForm.dll
+C:\Users\shello\Desktop\learning material\VisualBasic\SciCalForm\SciCalForm\obj\Debug\net6.0-windows\SciCalForm.CALCULATOR.resources
